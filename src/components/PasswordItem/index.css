@@ -1,0 +1,67 @@
+.password-item {
+  border: 1px solid #b6c3ca;
+  width: 100%;
+  max-width: 350px;
+  border-radius: 5px;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.initial-con {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-right: 15px;
+}
+
+.initial-heading {
+  color: #f8fafc;
+  font-size: 18px;
+}
+
+.password-text-con {
+  display: flex;
+  flex-direction: column;
+  color: #f8fafc;
+}
+
+.website-text {
+  margin-bottom: 4px;
+  margin-top: 16px;
+}
+.username-text {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.mask-img {
+  margin-top: 10px;
+  width: 140px;
+  height: 20px;
+}
+
+.delete-btn {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.delete-img {
+  height: 25px;
+  width: 25px;
+}
+
+.delete-btn-container {
+  margin-left: auto;
+}
+
+.password-text {
+  margin-top: 3px;
+  padding: 0px;
+}
